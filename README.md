@@ -1,13 +1,13 @@
-# Agustinus Yogi
+# Agustinus Yogi, S.Kom
 
-Guru Mata Pelajaran di **SMP Negeri 1 Aradide**, Kabupaten Paniai, Provinsi
-Papua Tengah. Berlatar Sarjana Komputer, jadi mengajar dan membangun sistem
-sekolah dikerjakan bersamaan: kelas saya mengajar, servernya saya rawat sendiri.
+Guru Mata Pelajaran **Informatika** di **SMP Negeri 1 Aradide**, Kabupaten Paniai,
+Provinsi Papua Tengah. Mengajar dan membangun sistem sekolah dikerjakan
+bersamaan: kelas saya mengajar, servernya saya rawat sendiri.
 
 ## Tentang saya
 
-- 🍎 **Guru Mata Pelajaran** — mengajar di SMP Negeri 1 Aradide, Kabupaten
-  Paniai, Papua Tengah.
+- 🍎 **Guru Mata Pelajaran Informatika** — mengajar Informatika di SMP Negeri 1
+  Aradide, Kabupaten Paniai, Papua Tengah.
 - 🔧 **Pengembang aplikasi sekolah** — sistem manajemen sekolah terpadu: website
   publik, PPDB, LMS, penilaian, absensi, hingga administrasi.
 - 🛡️ **Sibuk dengan keamanan** — prepared statement, token CSRF, bcrypt, upload
@@ -46,6 +46,10 @@ sendiri.
 
 **Operasional** — konfigurasi server, SSL, backup otomatis, Google Cloud
 Compute Engine
+
+**Yang diajarkan** — dasar-dasar pemrograman, basis data, dan jaringan. Sistem
+yang dibangun untuk sekolah saya adalah versi serius dari materi itu, sehingga
+saya tidak perlu memakai contoh yang dibuat-buat.
 
 ## Prinsip kerja
 
