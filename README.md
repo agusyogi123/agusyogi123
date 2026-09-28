@@ -1,11 +1,13 @@
 # Agustinus Yogi
 
-Sarjana Komputer dari Aradide, Paniai — Papua Tengah. Di sini saya bekerja di
-bidang teknologi sekolah: membangun sistem yang dipakai sekolah, menjaga
-server tetap hidup, dan berbagai hal-hal lain yang harus tetap jalan.
+Guru Mata Pelajaran di **SMP Negeri 1 Aradide**, Kabupaten Paniai, Provinsi
+Papua Tengah. Berlatar Sarjana Komputer, jadi mengajar dan membangun sistem
+sekolah dikerjakan bersamaan: kelas saya mengajar, servernya saya rawat sendiri.
 
 ## Tentang saya
 
+- 🍎 **Guru Mata Pelajaran** — mengajar di SMP Negeri 1 Aradide, Kabupaten
+  Paniai, Papua Tengah.
 - 🔧 **Pengembang aplikasi sekolah** — sistem manajemen sekolah terpadu: website
   publik, PPDB, LMS, penilaian, absensi, hingga administrasi.
 - 🛡️ **Sibuk dengan keamanan** — prepared statement, token CSRF, bcrypt, upload
@@ -17,9 +19,9 @@ server tetap hidup, dan berbagai hal-hal lain yang harus tetap jalan.
 
 ## Yang saya kerjakan
 
-**Aradide Smart School** — sistem manajemen sekolah untuk SMP Negeri 1 Aradide,
-Papua Tengah. Ditulis dari nol memakai PHP murni tanpa framework dan tanpa
-Composer, supaya bisa jalan di shared hosting yang murah maupun di server
+**Aradide Smart School** — sistem manajemen sekolah untuk tempat saya mengajar,
+SMP Negeri 1 Aradide. Ditulis dari nol memakai PHP murni tanpa framework dan
+tanpa Composer, supaya bisa jalan di shared hosting yang murah maupun di server
 sendiri.
 
 Yang membuatnya tidak sekadar CRUD biasa:
@@ -31,6 +33,10 @@ Yang membuatnya tidak sekadar CRUD biasa:
 - **Video conference** memakai Jitsi Meet
 - **Portal alumni** dan direktori yang bisa dikelola sendiri
 - **AI chatbot** untuk menjawab pertanyaan pengunjung di website sekolah
+
+Alasannya sederhana: perangkat lunak yang tersedia di sekolah terlalu berat dan
+terlalu mahal untuk kebutuhan yang sebenarnya sederhana. Lebih baik dibangun
+sendiri.
 
 ## Tech yang dikuasai
 
@@ -54,4 +60,4 @@ tapi tidak ada orang yang paham.
 
 - 🌐 **Blog** — [bukabagusy.net](https://bukabagusy.net)
 - 🐦 **Twitter/X** — [@Bukabagusy01](https://twitter.com/Bukabagusy01)
-- 📍 **Lokasi** — Aradide, Paniai
+- 📍 **Lokasi** — Aradide, Kabupaten Paniai, Papua Tengah
